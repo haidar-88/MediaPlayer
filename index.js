@@ -1,7 +1,7 @@
 const audio = document.getElementById("myAudio");
 const pp = document.getElementById("pp");
 const name = document.getElementById("text");
-let songs = ["song 1.mp3", "song 2.mp3", "song 3.mp3", "song 4.mp3"];
+let songs = ["song1.mp3", "song2.mp3", "song3.mp3", "song4.mp3"];
 let names = ["Idol - SUICIDAL", "Hardy Boys - YEAT", "Talk - YEAT", "Tell Me - YEAT"];
 let index = 0;
 let playing = null;
